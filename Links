@@ -1,0 +1,18 @@
+https://github.com/DaftMonk/generator-angular-fullstack
+
+http://yeoman.io/
+
+Ez a normál JS-nél a promise-os megoldás callback helyett: 
+https://www.npmjs.com/package/q
+
+HTML helyett Jade: 
+http://jade-lang.com/
+
+CSS helyett LESS: 
+http://lesscss.org/
+
+Bootstrap amitől egyszerű a sitebuild: 
+http://getbootstrap.com/
+
+Angular, ami a kliens oldali MVC keretrendszer: 
+https://angularjs.org/
