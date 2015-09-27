@@ -3,6 +3,11 @@ https://github.com/DaftMonk/generator-angular-fullstack
 Node correction in UBUNTU
 ln -s /usr/bin/nodejs /usr/bin/node
 
+update node w/ npm
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n stable
+
 http://yeoman.io/
 
 Ez a normál JS-nél a promise-os megoldás callback helyett: 
