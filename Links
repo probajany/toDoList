@@ -1,5 +1,8 @@
 https://github.com/DaftMonk/generator-angular-fullstack
 
+Node correction in UBUNTU
+ln -s /usr/bin/nodejs /usr/bin/node
+
 http://yeoman.io/
 
 Ez a normál JS-nél a promise-os megoldás callback helyett: 
